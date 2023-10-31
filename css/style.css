@@ -1,0 +1,9 @@
+/* for whole page task */
+*{
+    background-color: aqua;
+}
+
+/* for particular task */
+h1{
+    background-color: brown;
+}

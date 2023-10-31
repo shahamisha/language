@@ -1,9 +1,8 @@
-/* for whole page task */
-*{
-    background-color: aqua;
+body {
+    background-color: lightblue;
 }
 
-/* for particular task */
-h1{
-    background-color: brown;
+h1 {
+    color: navy;
+    margin-left: 20px;
 }
